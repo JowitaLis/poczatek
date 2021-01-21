@@ -1,1 +1,1 @@
-To jest mój pierwszy projekt, która wykonałam na podstawie wiedzy zdobywanej podczas kursu online.
+To są moje pierwsze projekty, które wykonałam na podstawie wiedzy zdobywanej podczas kursu online.
