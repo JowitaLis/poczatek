@@ -1,1 +1,1 @@
-# poczatek To są moje pierwsze projekty, która wykonuję na podstawie wiedzy zdobywanej podczas kursu online.
+# poczatek To jest mój pierwszy projekt, która wykonałam na podstawie wiedzy zdobywanej podczas kursu online.
